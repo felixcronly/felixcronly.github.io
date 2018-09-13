@@ -19,7 +19,7 @@ html {
 
 body {
 	background-image: url("https://cdn.pixabay.com/photo/2016/06/27/02/24/background-1481802_960_720.jpg");
-  font: 18px/1.4 $helvetica;
+  font: 18px/1.4 'Gamja Flower', cursive;
   color: "$66f100";
 }
 
@@ -31,7 +31,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $helveticaNeue;
+  font-family: 'Gamja Flower', cursive;
   color: "$66f100";
   font-weight: bold;
 
@@ -194,7 +194,7 @@ img {
   margin: 0;
   color: $darkGray;
   cursor: pointer;
-  font-family: $helveticaNeue;
+  font-family: 'Gamja Flower', cursive;
   font-weight: 300;
   font-size: 28px;
   letter-spacing: 1px;
@@ -213,7 +213,7 @@ img {
 nav {
   float: right;
   margin-top: 23px; // @TODO: Vertically middle align
-  font-family: $helveticaNeue;
+  font-family: 'Gamja Flower', cursive;
   font-size: 18px;
 
   @include mobile {

@@ -75,7 +75,7 @@ p {
 a {
   color: $blue;
   text-decoration: none;
-	cursor: not-allowed;
+	cursor: crosshair;
 	&:hover, &:active {
     color: $blue;
   }

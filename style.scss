@@ -75,8 +75,7 @@ p {
 a {
   color: $blue;
   text-decoration: none;
-	cursor: "https://i.ppy.sh/b60e8c1d81bb7c6523a042f4706853ad04c8831d/687474703a2f2f7075752e73682f63455353522f356536396430356236322e706e67";
-  &:hover, &:active {
+	cursor: url ("https://i.ppy.sh/b60e8c1d81bb7c6523a042f4706853ad04c8831d/687474703a2f2f7075752e73682f63455353522f356536396430356236322e706e67"), auto;
     color: $blue;
   }
 }

@@ -19,6 +19,9 @@ html {
 
 body {
 	background-image: url("http://hdwpro.com/wp-content/uploads/2017/01/Natural-Full-HD-Background.jpg");
+	background-repeat: no-repeat;
+ 	 background-attachment: fixed;
+ 	 background-position: center;
   font: 18px/1.4 'Gamja Flower', cursive;
   color: "$FFC25D";
 }

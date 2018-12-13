@@ -76,11 +76,11 @@ p {
 }
 
 a {
-  color: $red;
+  color: $blue;
   text-decoration: overline;
 	cursor: not-allowed;
 	&:hover, &:active {
-    color: $red;
+    color: $blue;
   }
 }
 

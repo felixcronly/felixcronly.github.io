@@ -76,11 +76,11 @@ p {
 }
 
 a {
-  color: $DFC13A;
-  text-decoration: none;
+  color: $red;
+  text-decoration: overline;
 	cursor: not-allowed;
 	&:hover, &:active {
-    color: $DFC13A;
+    color: $red;
   }
 }
 

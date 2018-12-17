@@ -1,8 +1,8 @@
 ---
-title: Continuing fuze, week 3
+title: dd/mm/yy Continuing fuze, week 3
 layout: post
 author: felix.cronly
-permalink: 13/12/18/continuing-fuze,-week-3/
+permalink: dd/mm/yy/continuing-fuze,-week-3/
 source-id: 1bMhbvCB5V3inekx7vqXVi7vbH0bSbOEeeqRN5NReFOI
 published: true
 ---

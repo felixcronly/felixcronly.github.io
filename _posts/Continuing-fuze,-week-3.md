@@ -2,7 +2,7 @@
 title: Continuing fuze, week 3
 layout: post
 author: felix.cronly
-permalink: /continuing-fuze,-week-3/
+permalink: 13/12/18/continuing-fuze,-week-3/
 source-id: 1bMhbvCB5V3inekx7vqXVi7vbH0bSbOEeeqRN5NReFOI
 published: true
 ---
